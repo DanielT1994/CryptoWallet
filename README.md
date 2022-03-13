@@ -119,3 +119,12 @@ Now it's time to put it all together and test the Fintech Finder application wit
 ---
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
+## Pictures
+
+![](Solved/pic1.png)
+
+![](Solved/pic2.png)
+
+![](Solved/pic3.png)
